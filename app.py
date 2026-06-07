@@ -61,9 +61,9 @@ if st.session_state.open:
   <p style="font-family:Playfair Display,serif;font-style:italic;font-size:1.05rem;color:#8B1A3A;margin-bottom:1rem;">My dearest Hani,</p>
   <p style="font-size:0.92rem;color:#5a3040;line-height:1.95;margin:0;">
     Happiest birthday to my <em>ellam ellam</em> 🌸<br><br>
-    I'm so glad to have you in my life — you make every ordinary moment feel like something worth remembering.<br><br>
+    I'm so grateful to have you with me,You make my life so much better.<br><br>
     May Allah bless you with all the happiness, good health, and every beautiful thing you deserve. 🤍<br><br>
-    You're my bestesttt friend and I love you loads, loads, loads. 💕
+    You're my favourite person, my home and I love you loads, loads and loads. 💕
   </p>
   <span style="font-family:Playfair Display,serif;font-style:italic;font-size:1rem;color:#9B1C3A;margin-top:1.2rem;display:block;">with all my love 💖</span>
 </div>
