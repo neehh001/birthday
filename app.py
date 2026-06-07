@@ -74,7 +74,7 @@ st.markdown('<div style="text-align:center;color:#c47a8e;font-size:1rem;letter-s
 st.markdown('<p style="text-align:center;font-size:1.45rem;color:#8B1A3A;margin-bottom:0.15rem;font-weight:500;">us, always 📸</p>', unsafe_allow_html=True)
 st.markdown('<p style="text-align:center;font-size:0.76rem;color:#b5677a;letter-spacing:0.12em;text-transform:uppercase;margin-bottom:1.2rem;">a little gallery just for you</p>', unsafe_allow_html=True)
 
-photos = [(HAN1, "my hani 🌸"), (HAN2, "besties forever 💕"), (HAN3, "love us 🥰")]
+photos = [(HAN1, "en chellam 🌸"), (HAN2, "jaan 💕"), (HAN3, "ily 🥰")]
 cols = st.columns(3)
 for i, (b64, cap) in enumerate(photos):
     with cols[i]:
